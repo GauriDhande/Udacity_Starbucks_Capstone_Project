@@ -25,6 +25,6 @@ File descriptions
   
   •	data/transcript.json: transactions, offers received, offers viewed, and offers completed records
   
-  •	data/data.csv: Cleaned data in csv format
+  •	final_data.csv: Cleaned data in csv format
 
 Medium Blog Post: https://medium.com/@dhandegauri/udacity-starbucks-capstone-project-3932f7896e25
